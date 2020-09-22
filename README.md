@@ -4,10 +4,8 @@
 
 🧠 learning [Next.js][nextjs]
 
-
-🐦 [twitter][twitter] **|** 
+🐦 [twitter][twitter] **|**
 👔 [linkedin][linkedin]
-
 
 [banner]: https://github.com/sumant2347/sumant2347/blob/master/Black%20Technology%20LinkedIn%20Banner.svg
 [kirusa]: https://www.kirusa.com/
