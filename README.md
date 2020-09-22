@@ -1,16 +1,17 @@
-### Hi there 👋
+![bg][banner]
 
-<!--
-**sumant2347/sumant2347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Font end developer at [kirusa][kirusa]
 
-Here are some ideas to get you started:
+🧠 learning [Next.js][nextjs]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🐦 [twitter][twitter] **|** 
+👔 [linkedin][linkedin]
+
+
+[banner]: https://github.com/sumant2347/sumant2347/blob/master/Black%20Technology%20LinkedIn%20Banner.svg
+[kirusa]: https://www.kirusa.com/
+[react]: http://reactjs.org
+[twitter]: https://twitter.com/SumantK10
+[linkedin]: www.linkedin.com/in/sumantk
+[nextjs]: https://nextjs.org/
