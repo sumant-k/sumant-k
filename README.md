@@ -7,7 +7,7 @@
 🐦 [twitter][twitter] **|**
 👔 [linkedin][linkedin]
 
-[banner]: https://github.com/sumant2347/sumant2347/blob/master/Black%20Technology%20LinkedIn%20Banner.svg
+[banner]: https://raw.githubusercontent.com/sumant2347/sumant2347/master/1.svg
 [kirusa]: https://www.kirusa.com/
 [react]: http://reactjs.org
 [twitter]: https://twitter.com/SumantK10
