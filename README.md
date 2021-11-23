@@ -1,6 +1,6 @@
 ![bg][banner]
 
-### Font end developer at [kirusa][kirusa]
+### Font end developer at [Dotgo](http://dotgo.com/) (formerly known as Kirusa)
 
 🧠 learning [Next.js][nextjs]
 
